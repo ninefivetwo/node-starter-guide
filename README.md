@@ -26,4 +26,16 @@ You will need to get yourself familiarized with JavaScript. HackerRank has a nea
 
 ## Git
 
-TODO:
+Git will play a big part in your software development and will be an essential tool. Refer to this [GitHub flow guide](https://guides.github.com/introduction/flow/) to get an understanding on how a typical coding cycle. This [glossary](https://help.github.com/articles/github-glossary/) can be of help with the terminology definitions.
+
+Some key terminology that you should get familiar are:
+
+* clone
+* checkout
+* branch
+* commit
+* push
+* pull request
+* merge
+
+With these under your belt, you have the basic tools to get yourself started with web development in Node.js.
